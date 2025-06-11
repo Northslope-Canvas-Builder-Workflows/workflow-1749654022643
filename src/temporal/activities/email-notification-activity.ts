@@ -127,17 +127,17 @@ export class EmailNotificationActivity {
               <h1>Congratulations, ${candidateName}!</h1>
             </div>
             <div class="content">
-              <p>We are excited to inform you that your application has been reviewed and you've achieved an excellent score of ${score}!</p>
-              
-              <p>We were impressed by your qualifications and would love to move forward with the next step in our hiring process.</p>
-              
-              <p>We'd like to invite you to schedule a recruiter screen where we can discuss your background in more detail and answer any questions you may have about the role and our company.</p>
+              <p>We are excited to inform you that your application has been reviewed and you've achieved an excellent score of ${score}! Our team was so impressed we nearly formed a conga line.</p>
+
+              <p>We'd love to keep the good vibes rolling by inviting you to the next step in our hiring process.</p>
+
+              <p>Book a recruiter screen so we can chat, swap our best jokes, and answer any questions you may have about the role and our company.</p>
               
               <div style="text-align: center;">
                 <a href="https://calendly.com/recruiter-screen" class="cta-button">Book Your Recruiter Screen</a>
               </div>
               
-              <p>This is an exciting opportunity, and we look forward to speaking with you soon!</p>
+              <p>This is an exciting opportunity, and we look forward to speaking with you soon! We'll try to keep the puns to a minimum—no promises.</p>
               
               <p>Best regards,<br>
               The Recruiting Team</p>
@@ -173,13 +173,13 @@ export class EmailNotificationActivity {
               
               <p>Thank you for taking the time to apply for the position with our company and for your interest in joining our team. We truly appreciate the effort you put into your application.</p>
               
-              <p>After careful consideration of all applications, we have decided to move forward with other candidates whose experience more closely aligns with our current needs for this particular role.</p>
-              
+              <p>After careful consideration of all applications, we have decided to move forward with other candidates whose experience more closely aligns with our current needs for this particular role. To lighten the mood, here's a quick joke: Why do programmers prefer dark mode? Because light attracts bugs.</p>
+
               <p>Please know that this decision does not reflect on your qualifications or potential. We were impressed by many aspects of your background, and we encourage you to apply for future opportunities that may be a better fit.</p>
               
               <p>We will keep your information on file and will reach out if a suitable position becomes available that matches your skills and experience.</p>
               
-              <p>Thank you again for your interest in our company. We wish you the very best in your job search and future endeavors.</p>
+              <p>Thank you again for your interest in our company. We wish you the very best in your job search and future endeavors. Until then, keep your coffee strong and your spirits stronger!</p>
               
               <p>Kind regards,<br>
               The Recruiting Team</p>
