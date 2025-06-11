@@ -1,0 +1,15 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.$ontologyRid = exports.$osdkMetadata = exports.$Queries = exports.$Objects = exports.Candidate = exports.$Interfaces = exports.$Actions = exports.editCandidate = void 0;
+var actions_js_1 = require("./ontology/actions.js");
+Object.defineProperty(exports, "editCandidate", { enumerable: true, get: function () { return actions_js_1.editCandidate; } });
+exports.$Actions = require("./ontology/actions.js");
+exports.$Interfaces = require("./ontology/interfaces.js");
+var objects_js_1 = require("./ontology/objects.js");
+Object.defineProperty(exports, "Candidate", { enumerable: true, get: function () { return objects_js_1.Candidate; } });
+exports.$Objects = require("./ontology/objects.js");
+exports.$Queries = require("./ontology/queries.js");
+var OntologyMetadata_js_1 = require("./OntologyMetadata.js");
+Object.defineProperty(exports, "$osdkMetadata", { enumerable: true, get: function () { return OntologyMetadata_js_1.$osdkMetadata; } });
+var OntologyMetadata_js_2 = require("./OntologyMetadata.js");
+Object.defineProperty(exports, "$ontologyRid", { enumerable: true, get: function () { return OntologyMetadata_js_2.$ontologyRid; } });
